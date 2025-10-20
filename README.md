@@ -7,7 +7,7 @@ The task involves creating a new virtual column in a Pandas DataFrame based on a
 ## Components
 `solution.py` - Contains the add_virtual_column function
 
-`test_virtual_column 1.py`  Unit tests for the function
+`test_virtual_column 1.py` - Unit tests for the function
 
 `README.md` - This file
 
